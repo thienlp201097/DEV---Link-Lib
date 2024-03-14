@@ -17,23 +17,12 @@
 - jitpack: https://jitpack.io/#dktlib/ApplovinUtilsLibrary
 - example: https://github.com/dktlib/ApplovinUtilsLibrary/tree/main/app
 
-
-# Lib Flutter
-✨ Admob:
-https://pub.dev/packages/dktech_admob
-
-✨ Applovin:
-
-# mail support
-fitnessappsp@gmail.com
-
-3xiappsp@gmail.com
-
-dktechincsp@gmail.com
-
+✨ Admob Rikatech: 
+- jitback: https://jitpack.io/#thienlp201097/AdmobLibraryRikatech
+- example: https://github.com/thienlp201097/AdmobLibraryRikatech
 # keystore
 Khi tạo project mới phải tạo file keystore ở folder app/
-user mặc định là vapp
+user mặc định là vapp@123
 
 # Git
 Cuối ngày commit, với project chung thì phải merge với master nếu hoàn thiện tính năng
