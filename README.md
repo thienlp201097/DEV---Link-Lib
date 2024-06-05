@@ -1,5 +1,10 @@
 # Dev-Notes-DKTech
 
+# Lib Android New
+✨ Dktech Ads: 
+- jitback: https://jitpack.io/#thienlp201097/DktechLib
+- example: https://github.com/thienlp201097/DktechLib
+
 # Lib Android
 ✨ Double Ads: 
 - jitback: https://jitpack.io/#thienlp201097/DoubleAdsLib
