@@ -10,9 +10,9 @@
 - jitback: https://jitpack.io/#thienlp201097/DoubleAdsLib
 - example: https://github.com/thienlp201097/DoubleAdsLib
 
-✨ Pangle Ads: 
-- jitback: https://jitpack.io/#thienlp201097/PangleLib
-- example: https://github.com/thienlp201097/PangleLib
+✨ Rikatech Double Ads: 
+- jitback: https://jitpack.io/#thienlp201097/DoubleAdsRikatech
+- example: https://github.com/thienlp201097/DoubleAdsRikatech
 
 ✨ Rate App:
 - jitpack: https://jitpack.io/#thienlp201097/smart-app-rate
